@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\kostroEugenConsoleApp\kostroEugenConsoleApp\bin\Debug\kostroEugenConsoleApp.exe.config
+C:\Users\3.D\source\repos\kostroEugenConsoleApp\kostroEugenConsoleApp\bin\Debug\kostroEugenConsoleApp.exe
+C:\Users\3.D\source\repos\kostroEugenConsoleApp\kostroEugenConsoleApp\bin\Debug\kostroEugenConsoleApp.pdb
+C:\Users\3.D\source\repos\kostroEugenConsoleApp\kostroEugenConsoleApp\obj\Debug\kostroEugenConsoleApp.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenConsoleApp\kostroEugenConsoleApp\obj\Debug\kostroEugenConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenConsoleApp\kostroEugenConsoleApp\obj\Debug\kostroEugenConsoleApp.exe
+C:\Users\3.D\source\repos\kostroEugenConsoleApp\kostroEugenConsoleApp\obj\Debug\kostroEugenConsoleApp.pdb
